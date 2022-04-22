@@ -17,8 +17,9 @@ Here are some ideas to get you started:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="yoyo930021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="yoyo930021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="yoyo930021" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yoyo930021" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="SteinRob" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="SteinRob" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SteinRob" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="SteinRob" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg" alt="SteinRob" height="30" width="40" /></a>
 </p>
