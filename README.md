@@ -19,29 +19,26 @@ Here are some ideas to get you started:
 <details>
   <summary><b>👤 About</b></summary>
     <p>
-           
 <blockquote>
 
 TEST TEST TEST
 
 </blockquote>
-    
-----
-  
+
   </p>
 </details>
   
-  
+
 <!-- Blog Posts -->
 <details>
   <summary><b>🔭 I’m currently working on</b></summary>
-    <p>
+
        
 TEST TEST TEST
-   ----   
+ 
       
 </details>
-
+   ----  
       
       
 <h3 align="left">Connect with me:</h3>
