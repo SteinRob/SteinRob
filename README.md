@@ -38,9 +38,8 @@ TEST TEST TEST
 
       
 </details>
-<p>
-    ----  
-  </p>    
+
+----  
       
 <h3 align="left">Connect with me:</h3>
 <p align="left">
