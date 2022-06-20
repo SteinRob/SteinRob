@@ -35,7 +35,7 @@ Here are some ideas to get you started:
   <summary><b>👤 About</b></summary>
     <p>
       <blockquote>
-       TEST TEST TEST
+       Wow, something about me.
       </blockquote>
    </p>
 </details>
