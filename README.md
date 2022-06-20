@@ -1,4 +1,4 @@
-### Hello everyone, it's me Robert 👋
+### Hello everyone, it's me <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a> 👋
 
 <!--
 **SteinRob/SteinRob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
