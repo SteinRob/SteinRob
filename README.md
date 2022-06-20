@@ -13,7 +13,18 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<p align="center">
+  <a href="https://twitter.com/"><img src="https://img.shields.io/badge/-@Robert-00acee?style=flat&logo=Twitter&logoColor=white" /></a>
+  <a href="https://stackoverflow.com/"><img src="https://img.shields.io/badge/-Robert-f48225?style=flat&logo=Stackoverflow&logoColor=white" /></a>
+    <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+    <a href="https://www.linkedin.com/"><img src="https://img.shields.io/badge/-Robert_Steinhoff-0072b1?style=flat&logo=Linkedin&logoColor=white" /></a>
+</p>
 -->
+
+<p align="center">
+    <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+</p>
 
 <!-- About Section -->
 <details>
