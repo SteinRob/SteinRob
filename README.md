@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<p align="center">
+<p align="left">
     <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a>
+</p>
+
+<p align="left">
     <a href="mailto:robert@omg.lol"><code>no reply</code></a>
 </p>
 
