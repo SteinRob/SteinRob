@@ -1,4 +1,8 @@
-### Hello everyone, it's me <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a> 👋
+<h1 align="center"> Hello everyone, it's me <a href="https://github.com/SteinRob"><img src="https://img.shields.io/badge/-SteinRob-3a3a3a?style=flat&logo=GitHub&logoColor=white" /></a> 👋 </h1>
+
+<h1 align="center">
+    <a href="mailto:robert.steinhoff@hotmail.com"><code>no reply</code></a>
+</h1>
 
 <!--
 **SteinRob/SteinRob** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,9 +26,7 @@ Here are some ideas to get you started:
 </p>
 -->
 
-<p align="left">
-    <a href="mailto:robert@omg.lol"><code>no reply</code></a>
-</p>
+
 
 <!-- About Section -->
 <details>
