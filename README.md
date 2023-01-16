@@ -52,9 +52,9 @@ TEST TEST TEST
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62387513/202715014-239ef366-b8d4-4c43-9ff7-492948748eca.svg" alt="SteinRob" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/robert-steinhoff-882693240" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/linkedin-icon.svg" alt="Robert Steinhoff" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/robert-steinhoff-882693240" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/tree/main/logos/linkedin-icon.svg" alt="Robert Steinhoff" height="30" width="40" /></a>
 <a href="https://stackexchange.com/users/24775954/robhoff" target="blank"><img align="center" src="https://user-images.githubusercontent.com/62387513/202714824-ee3d9b62-ed79-4aac-8e29-c846a248ed24.svg" alt="SteinRob" height="30" width="40" /></a>
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/blob/master/logos/facebook.svg" alt="SteinRob" height="30" width="40" /></a>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ" target="blank"><img align="center" src="https://github.com/gilbarbara/logos/tree/main/logos/facebook.svg" alt="SteinRob" height="30" width="40" /></a>
 <a href="https://www.strava.com/athletes/100014903" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/strava.svg" alt="SteinRob" height="30" width="40" /></a>
 <a href="https://www.gast-haus.org/spenden" target="blank"> <img align="center" src="https://user-images.githubusercontent.com/62387513/165543031-8ba04982-64ee-4fcb-b594-53534d3c59ea.svg" alt="SteinRob" height="30" width="40" /></a>
 </p>
